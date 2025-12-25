@@ -1,0 +1,16 @@
+.portfolio {
+  padding: 2rem;
+}
+
+.projects {
+  display: flex;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.project {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 8px;
+  flex: 1;
+}
